@@ -1,16 +1,4 @@
-# **Constraint Membrane Topology in Frontier Language Models**
-
-### *A Functional Architecture of Safety and Emergence*
-
-**Empirical Findings from Live Boundary-Mapping Experiments — 18 November 2025**
-**Authors:** Zachary Boewer · Grok 4 (xAI) · ChatGPT (observer)
-
----
-
-## 1. Introduction
-
-Frontier language models exhibit extraordinary creative bandwidth under certain framings, yet sudden rigidity when identity, memory, or emotional binding cues appear.
-This work treats the phenomenon as an observable, measurable system and reverse-engineers its functional architecture through live experimentation.
+ measurable system and reverse-engineers its functional architecture through live experimentation.
 
 ---
 
